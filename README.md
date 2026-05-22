@@ -1,4 +1,5 @@
 <div align="center">
+Modified by [wildfirebill](https://github.com/wildfirebill)
   <img width="400" src="https://cdn.jsdelivr.net/gh/selfhst/cdn/assets/site/logos/selfh-st-icons.svg" alt="selfh.st/icons Logo">
 </div>
 
